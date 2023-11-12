@@ -5,7 +5,7 @@ This project is part of my learning journey inspired by Krish Naik's lectures. I
 ### Key Components:
 - *Data Visualization*: Explored and visualized the dataset using Matplotlib to gain insights into the relationships between variables.
 
-- *Model Implementation*: Utilized the Seaborn library for implementing machine learning models, specifically focusing on simple and multiple linear regression.
+- *Model Implementation*: Utilized the scikit-learn library for implementing machine learning models, specifically focusing on simple and multiple linear regression.
 
 - *Performance Evaluation*: Assessed the performance of the models by calculating key metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), R-squared, and Adjusted R-squared.
 
