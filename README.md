@@ -2,7 +2,7 @@
 
 This project is part of my learning journey inspired by Krish Naik's lectures. In this repository, I have implemented simple and multiple linear regression models using Python and the scikit-learn library.
 
-###Key Components:
+### Key Components:
 - *Data Visualization*: Explored and visualized the dataset using Matplotlib to gain insights into the relationships between variables.
 
 - *Model Implementation*: Utilized the Seaborn library for implementing machine learning models, specifically focusing on simple and multiple linear regression.
